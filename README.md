@@ -4,3 +4,11 @@ Admin password :admin
 admin username: admin
 user password: user
 username : user.
+
+Technology used:-
+HTML
+CSS
+PHP
+BOOTSTRAP
+MY SQL
+JAVASCRIPT
