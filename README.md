@@ -39,7 +39,6 @@ Salon Management System is a web-based application developed to assist salon own
 
    # Salon Management System
 
-![Salon Management System Logo](salon-logo.png)
 
 Salon Management System is a web-based application developed to assist salon owners and managers in efficiently managing their salon operations. This system is designed with various technologies to provide a user-friendly and feature-rich experience.
 
